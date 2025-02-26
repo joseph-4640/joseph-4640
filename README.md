@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @joseph-4640
-- 👀 I’m interested in Data Science, ML and AI
+- 👋 Hi, I’m Joseph Sunday Obiero
+- 👀Data Scienctist, ML and AI Scientist
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on automation of technichal processes.
-- 📫 How to reach me Whatsapp 0741901072
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ Open to work
+- 📫 How to reach me Whatsapp 0741901072/ email ~ obierosunday126@gmail.com
+- 
+- ⚡ Fun fact: l thank God for technology!
 
 <!---
 joseph-4640/joseph-4640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
